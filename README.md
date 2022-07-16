@@ -38,3 +38,4 @@ or start `start.bat` file
 * `cat` &rarr; **read file from CMD**
 * `clear` &rarr; **clear CMD screen**
 
+<p align="center">2022 © <a href="https://github.com/Avdushin" target="_blank">AVDUSHIN</a></p>
