@@ -6,7 +6,8 @@
 
 | NAME        | Version    |  Tested     |
 | ----------- | -----------| ----- |
-| **ls**      | **0.1**    |  :heavy_check_mark:
+| **ls**      | **0.2**    |  :heavy_check_mark:
+| **ll**      | **0.1**    |  :heavy_check_mark:
 | **cat**     | **0.1**    |  :heavy_check_mark:
 | **clear**   | **0.1**    |  :heavy_check_mark:
 
@@ -18,6 +19,7 @@
 ```powershell
 copy Tools\* %homepath%
 SET path=C:%homepath%\ls.exe;%path%
+SET path=C:%homepath%\ll.exe;%path%
 SET path=C:%homepath%\clear.exe;%path%
 SET path=C:%homepath%\cat.exe;%path%
 ```
@@ -35,6 +37,7 @@ or start `start.bat` file
 ### How to use
 
 * `ls` &rarr; **show files in the directory**
+* `ll` &rarr; **show files in the directory & their rights**
 * `cat` &rarr; **read file from CMD**
 * `clear` &rarr; **clear CMD screen**
 
