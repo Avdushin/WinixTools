@@ -2,18 +2,21 @@
 
 #### List of unix utilities for Windows
 
+![logo](https://i.pinimg.com/564x/b0/16/be/b016bece7f010a7483548d36f43ddf60.jpg)
+
 #### Utilities
 
 | NAME        | Version    |  Tested     |
 | ----------- | -----------| ----- |
-| **ls**      | **0.2**    |  :heavy_check_mark:
-| **ll**      | **0.1**    |  :heavy_check_mark:
-| **cat**     | **0.1**    |  :heavy_check_mark:
-| **clear**   | **0.1**    |  :heavy_check_mark:
+| **ls**      | **1.0**    |  :heavy_check_mark:
+| **ll**      | **1.0**    |  :heavy_check_mark:
+| **cat**     | **1.0**    |  :heavy_check_mark:
+| **clear**   | **1.0**    |  :heavy_check_mark:
+| **[make](https://www.gnu.org/software/make/)**   | **1.0**    |  :heavy_check_mark:
 
 ### How to install
 
-1) Open CMD at the ***application folder***
+1) Open CMD at the **application folder**
 
 2) Put this script to CMD
 ```powershell
@@ -37,5 +40,6 @@ or start `start.bat` file
 * `ll` &rarr; **show files in the directory & their rights**
 * `cat` &rarr; **read file from CMD**
 * `clear` &rarr; **clear CMD screen**
+* `make` &rarr; **start Makefile scripts**
 
 <p align="center">2022 © <a href="https://github.com/Avdushin" target="_blank">AVDUSHIN</a></p>
