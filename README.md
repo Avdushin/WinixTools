@@ -38,12 +38,32 @@ or start `start.bat` file
 5) Restart CMD
 6) All ready to go!
 
-### How to use
+### DEMO
 
-* `ls` &rarr; **show files in the directory**
-* `ll` &rarr; **show files in the directory & their rights**
-* `cat` &rarr; **read file from CMD**
-* `clear` &rarr; **clear CMD screen**
-* `make` &rarr; **start Makefile scripts**
+<details>
+<summary> <code>ls</code> &rarr; <b>show files in the directory</b></summary> <br>
+ <img width="70%" src="assets/gifs/ls.gif" />
+</details>
+<br>
+<details>
+<summary> <code>ll</code> &rarr; <b>show files in the directory & their rights</b></summary> <br>
+ <img width="70%" src="assets/gifs/ll.gif" />
+</details>
+<br>
+<details>
+<summary> <code>cat</code> &rarr; <b>read file from CMD</b></summary> <br>
+ <img width="70%" src="assets/gifs/cat.gif" />
+</details>
+<br>
+<details>
+<summary> <code>clear</code> &rarr; <b>clear CMD screen</b></summary> <br>
+ <img width="70%" src="assets/gifs/celar.gif" />
+</details>
+<br>
+<details>
+<summary> <code>make</code> &rarr; <b>start Makefile scripts</b></summary> <br>
+ <img width="70%" src="assets/gifs/make.gif" />
+</details>
+<br>
 
 <p align="center">2022 © <a href="https://github.com/Avdushin" target="_blank">AVDUSHIN</a></p>
