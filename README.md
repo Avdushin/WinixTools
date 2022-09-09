@@ -20,19 +20,23 @@
 
 2) Put this script to CMD
 ```powershell
-copy Tools\* %homepath%
-SET path=C:\Users\%username%;%path%
+mkdir %AppData%\WinixTools 
+copy Tools\* %AppData%\WinixTools
+SET path=%AppData%\WinixTools;%path%
 ```
 
 or start `start.bat` file 
 
 3) **CMD => Always run as Administrator**
-4) Changing System Environment Variables &rarr; Environment settings &rarr; System variables &rarr; Path &rarr; Edit... &rarr; Create &rarr; `C:\User\YOUR_USER`
+4) Changing System Environment Variables &rarr; Environment settings &rarr; System variables &rarr; Path &rarr; Edit... &rarr; Create &rarr; `%AppData%\WinixTools`
+
+   
+  P.s `%AppData%` it's = `C:\Users\%username%\AppData\Roaming`
 
 **YOUR_USER** is your system username
 
-5) Restart CMD
-6) All ready to go!
+1) Restart CMD
+2) All ready to go!
 
 ### How to use
 

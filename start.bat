@@ -1,2 +1,3 @@
-copy Tools\* %homepath%
-SET path=C:\Users\%username%;%path%
+mkdir %AppData%\WinixTools 
+copy Tools\* %AppData%\WinixTools
+SET path=%AppData%\WinixTools;%path%
