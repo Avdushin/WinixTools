@@ -27,16 +27,16 @@ SET path=%AppData%\WinixTools;%path%
 
 or start `start.bat` file 
 
-3) **CMD => Always run as Administrator**
-4) Changing System Environment Variables &rarr; Environment settings &rarr; System variables &rarr; Path &rarr; Edit... &rarr; Create &rarr; `%AppData%\WinixTools`
+3) **CMD &rarr; Always run as Administrator**
+4) **Changing System Environment Variables &rarr; Environment settings &rarr; System variables &rarr; Path &rarr; Edit... &rarr; Create &rarr; `%AppData%\WinixTools`**
 
+![system variables](assets/system_variables.png)
    
-  P.s `%AppData%` it's = `C:\Users\%username%\AppData\Roaming`
+  P.s `%AppData%` it's equal `C:\Users\%username%\AppData\Roaming`
 
-**YOUR_USER** is your system username
 
-1) Restart CMD
-2) All ready to go!
+5) Restart CMD
+6) All ready to go!
 
 ### How to use
 
