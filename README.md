@@ -6,7 +6,7 @@
 
 #### Utilities
 
-| NAME        | Version    |  Tested     |
+| NAME        | VERSION    |  TESTED     |
 | ----------- | -----------| ----- |
 | **ls**      | **1.0**    |  :heavy_check_mark:
 | **ll**      | **1.0**    |  :heavy_check_mark:
